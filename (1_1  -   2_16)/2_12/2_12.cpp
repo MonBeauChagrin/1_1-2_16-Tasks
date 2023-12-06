@@ -16,4 +16,5 @@ int main() {
 	cout << max << " Max element" << endl;
 	cout << min << " Min element" << endl;
 	cout << max + min << " Sum elements" << endl;
+	return 0;
 }
