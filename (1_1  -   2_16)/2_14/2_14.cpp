@@ -9,4 +9,5 @@ int main() {
 		n = n / 10;
 	}
 	cout << b;
+	return 0;
 }
