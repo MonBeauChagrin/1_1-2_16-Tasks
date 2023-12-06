@@ -12,5 +12,5 @@ int main() {
         c = a / b;
         cout << (c);
     }
-
+    return 0;
 }
