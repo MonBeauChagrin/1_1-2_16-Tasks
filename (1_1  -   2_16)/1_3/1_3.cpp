@@ -15,4 +15,5 @@ int main() {
     {
         cout << a / 10 << endl;
     }
+    return 0;
 }
